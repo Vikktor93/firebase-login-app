@@ -7,13 +7,13 @@
    <img src="https://img.shields.io/badge/Firebase-FFCA28?tyle=plastic&logo=firebase&logoColor=white&labelColor=FFCA28">
    <img src="./assets/img/miniWebApp.png"/>
 
-## Descripción del Proyecto
-
 ## Mini WebApp de Login con Firebase y Redes Sociales
+---
 
 ¡Bienvenidos(as) a la Mini WebApp de Login con Firebase! Este proyecto ofrece una solución eficaz y sencilla para registrar usuarios y permite además de iniciar sesión utilizando diferentes redes sociales como: Facebook, Twitter y Google.
 
 ### Características:
+---
 
 **Registro de Usuarios:** Este proyecto permite crear una cuenta de usuario única y segura con un email y una contraseña ingresada. ¡En un par de segundos ya se puede autenticar!
 
@@ -26,6 +26,7 @@
 **Base de Datos Segura:** Los datos de los usuarios se almacenan de forma segura en Firebase Firestore, garantizando la confidencialidad y protección de tu información personal.
 
 ### ¿Cómo utilizar la Mini WebApp?
+---
 
 **Registro:** Completa el formulario de registro con tu dirección de correo electrónico y una contraseña segura. 
 
@@ -34,16 +35,19 @@
 **Redes Sociales:** Si prefieres utilizar una cuenta de red social, simplemente haz clic en el botón correspondiente y sigue las instrucciones para autorizar el acceso.
 
 ### Instrucciones para Desarrolladores:
+---
 
 Si deseas utilizar y examinar el código, para mejorar esta Mini WebApp, sigue los siguientes pasos:
 
 1. Clona el repositorio.
+`git clone https://github.com/Vikktor93/firebase-login-app.git`
 
 2. Asegúrate de tener las credenciales de Firebase actualizadas en el archivo **config.js**. (Ten en cuenta que estas credenciales no se encuentran en este repositorio).
 
-3. Ejecuta la aplicación en tu navegador y observa los cambios en tiempo real.
+3. Ejecuta la aplicación desde el archivo **login.html** en tu navegador y observa los cambios en tiempo real.
 
 ### Contribuciones
+---
 
 ¡Si quieres contribuir a este proyecto, no hay problema! Si tienes ideas para mejorar esta Mini WebApp o encuentras errores, no dudes en realizar un pull request.
 
@@ -52,6 +56,7 @@ Si deseas utilizar y examinar el código, para mejorar esta Mini WebApp, sigue l
 Nota: Ten en cuenta que la Mini WebApp se proporciona con fines educativos y de demostración.
 
 ## Enlaces de Interés
+---
 
 - Documentación JavaScript [(Información oficial JavaScript)][js]
 - Documentación Oficial Firebase [(Firebase)][firebase]
