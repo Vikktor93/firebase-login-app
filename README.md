@@ -12,6 +12,25 @@
 
 ¡Bienvenidos(as) a la Mini WebApp de Login con Firebase! Este proyecto ofrece una solución eficaz y sencilla para registrar usuarios y permite además de iniciar sesión utilizando diferentes redes sociales como: Facebook, Twitter y Google.
 
+<image
+  src="./assets/img/loginFirebaseApp.png"
+  alt="Screenshot del Login"
+  caption="Screenshot del Login">
+
+---
+
+<image
+  src="./assets/img/loginAppV2.png"
+  alt="Modal del Registro"
+  caption="Modal del Registro">
+
+---
+<image
+  src="./assets/img/loginAppv3.png"
+  alt="Screenshot del Home de la App"
+  caption="Screenshot del Home de la App">
+---
+
 ### Características:
 ---
 
@@ -53,7 +72,10 @@ Si deseas utilizar y examinar el código, para mejorar esta Mini WebApp, sigue l
 
 ¡Espero que sea de utilidad esta Mini WebApp! No dudes en compartir tus comentarios. 
 
-#### Nota: Ten en cuenta que la Mini WebApp se proporciona con fines educativos y de demostración.
+Nota: Ten en cuenta que la Mini WebApp se proporciona con fines educativos y de demostración.
+
+### Licencia
+Distribuido bajo la Licencia MIT. Consulte LICENCIA para obtener más información.
 
 ### Enlaces de Interés
 ---
