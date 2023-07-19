@@ -17,6 +17,7 @@
   alt="Screenshot del Login"
   caption="Screenshot del Login">
 
+
 ---
 
 <image
@@ -24,11 +25,14 @@
   alt="Modal del Registro"
   caption="Modal del Registro">
 
+
 ---
 <image
   src="./assets/img/loginAppv3.png"
   alt="Screenshot del Home de la App"
   caption="Screenshot del Home de la App">
+
+  
 ---
 
 ### Características:
