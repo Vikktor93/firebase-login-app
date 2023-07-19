@@ -8,7 +8,7 @@
    <img src="./assets/img/miniWebApp.png"/>
 
 ## Mini WebApp de Login con Firebase y Redes Sociales
----
+
 
 ¡Bienvenidos(as) a la Mini WebApp de Login con Firebase! Este proyecto ofrece una solución eficaz y sencilla para registrar usuarios y permite además de iniciar sesión utilizando diferentes redes sociales como: Facebook, Twitter y Google.
 
@@ -42,20 +42,20 @@ Si deseas utilizar y examinar el código, para mejorar esta Mini WebApp, sigue l
 1. Clona el repositorio.
 `git clone https://github.com/Vikktor93/firebase-login-app.git`
 
-2. Asegúrate de tener las credenciales de Firebase actualizadas en el archivo **config.js**. (Ten en cuenta que estas credenciales no se encuentran en este repositorio).
+2. Asegúrate de tener las credenciales de Firebase actualizadas en el archivo `config.js`. (Ten en cuenta que estas credenciales no se encuentran en este repositorio).
 
-3. Ejecuta la aplicación desde el archivo **login.html** en tu navegador y observa los cambios en tiempo real.
+3. Ejecuta la aplicación desde el archivo `login.html` en tu navegador y observa los cambios en tiempo real.
 
 ### Contribuciones
 ---
 
-¡Si quieres contribuir a este proyecto, no hay problema! Si tienes ideas para mejorar esta Mini WebApp o encuentras errores, no dudes en realizar un pull request.
+¡Si quieres contribuir a este proyecto, no hay problema! Si tienes ideas para mejorar este proyecto o encuentras errores, no dudes en realizar un pull request.
 
-¡Espero que sea de utilidad esta Mini WebApp de Login con Firebase y Redes Sociales! No dudes en compartir tus comentarios. 
+¡Espero que sea de utilidad esta Mini WebApp! No dudes en compartir tus comentarios. 
 
-Nota: Ten en cuenta que la Mini WebApp se proporciona con fines educativos y de demostración.
+#### Nota: Ten en cuenta que la Mini WebApp se proporciona con fines educativos y de demostración.
 
-## Enlaces de Interés
+### Enlaces de Interés
 ---
 
 - Documentación JavaScript [(Información oficial JavaScript)][js]
