@@ -32,7 +32,7 @@
   alt="Screenshot del Home de la App"
   caption="Screenshot del Home de la App">
 
-  
+
 ---
 
 ### Características:
@@ -74,11 +74,19 @@ Si deseas utilizar y examinar el código, para mejorar esta Mini WebApp, sigue l
 
 ¡Si quieres contribuir a este proyecto, no hay problema! Si tienes ideas para mejorar este proyecto o encuentras errores, no dudes en realizar un pull request.
 
+1. Realiza un Fork al repositorio
+2. Clona el repositorio `git clone https://github.com/Vikktor93/firebase-login-app.git`
+3. Crea una rama con tus cambios `git checkout -b [Nombre de la Rama]`
+4. Confirma tus cambios utilizando el comando `git commit -m 'Agregar el Mensaje'`
+5. Envía los cambios de la rama `git push origin [Nombre de la Rama]'`
+6. Crea un Pull Request
+
 ¡Espero que sea de utilidad esta Mini WebApp! No dudes en compartir tus comentarios. 
 
 Nota: Ten en cuenta que la Mini WebApp se proporciona con fines educativos y de demostración.
 
 ### Licencia
+---
 Distribuido bajo la Licencia MIT. Consulte LICENCIA para obtener más información.
 
 ### Enlaces de Interés
