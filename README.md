@@ -15,24 +15,24 @@
 ### Características:
 ---
 
-**Registro de Usuarios:** Este proyecto permite crear una cuenta de usuario única y segura con un email y una contraseña ingresada. ¡En un par de segundos ya se puede autenticar!
+:bust_in_silhouette: **Registro de Usuarios:** Este proyecto permite crear una cuenta de usuario única y segura con un email y una contraseña ingresada. ¡En un par de segundos ya se puede autenticar!
 
-**Inicio de Sesión Rápido:** Accede a la cuenta en un abrir y cerrar de ojos utilizando las credenciales de inicio de sesión ya registradas.
+:envelope: **Inicio de Sesión Rápido:** Accede a la cuenta en un abrir y cerrar de ojos utilizando las credenciales de inicio de sesión ya registradas.
 
-**Redes Sociales:** ¿No quieres crear una cuenta nueva? ¡No hay problema! Puedes conectarte instantáneamente con tu cuenta de Facebook, Twitter o Google y accede rápidamente a la aplicación.
+:rocket: **Redes Sociales:** ¿No quieres crear una cuenta nueva? ¡No hay problema! Puedes conectarte instantáneamente con tu cuenta de Facebook, Twitter o Google y accede rápidamente a la aplicación.
 
-**Diseño Atractivo:** Se utilizó el conjunto de herramientas de Material Design Bootstrap (MDB) para crear una interfaz de usuario moderna y atractiva. Disfruta de una experiencia visualmente agradable y fácil de usar.
+:iphone: **Diseño Atractivo:** Se utilizó el conjunto de herramientas de Material Design Bootstrap (MDB) para crear una interfaz de usuario moderna y atractiva. Disfruta de una experiencia visualmente agradable y fácil de usar.
 
-**Base de Datos Segura:** Los datos de los usuarios se almacenan de forma segura en Firebase Firestore, garantizando la confidencialidad y protección de tu información personal.
+:lock: **Base de Datos Segura:** Los datos de los usuarios se almacenan de forma segura en Firebase Firestore, garantizando la confidencialidad y protección de tu información personal.
 
 ### ¿Cómo utilizar la Mini WebApp?
 ---
 
-**Registro:** Completa el formulario de registro con tu dirección de correo electrónico y una contraseña segura. 
+:white_check_mark: **Registro:** Completa el formulario de registro con tu dirección de correo electrónico y una contraseña segura. 
 
-**Inicio de Sesión:** Accede a tu cuenta utilizando las credenciales que ingresaste durante el registro. ¡Es fácil y rápido!
+:envelope: **Inicio de Sesión:** Accede a tu cuenta utilizando las credenciales que ingresaste durante el registro. ¡Es fácil y rápido!
 
-**Redes Sociales:** Si prefieres utilizar una cuenta de red social, simplemente haz clic en el botón correspondiente y sigue las instrucciones para autorizar el acceso.
+:rocket: **Redes Sociales:** Si prefieres utilizar una cuenta de red social, simplemente haz clic en el botón correspondiente y sigue las instrucciones para autorizar el acceso.
 
 ### Instrucciones para Desarrolladores:
 ---
